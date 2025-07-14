@@ -2,24 +2,24 @@
   # Задание 9.11. Модуль 13 (HW-01)
 
 ## Оглавление
-[1. Описание проекта](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Результат)
+[5. Результат](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Результат)
 
-[6. Выводы](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Выводы)
+[6. Выводы](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Выводы)
 
 
 ### Описание проекта
 Банк обращается к вам за помощью: он хочет разработать кампанию лояльности по удержанию клиентов, но для этого ему необходимо, чтобы вы выяснили основные причины оттока клиентов. Иными словами, нужно установить, чем ушедшие клиенты отличаются от лояльных и как между собой связаны различные признаки, определяющие клиентов.
 
 
-:arrow_up: [к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Оглавление)
 
 ### Какой кейс решаем
 После разведывательного анализа, с целью выявления наиболее важных признаков оттока, банк сможет построить модель машинного обучения, которая будет прогнозировать уход клиента.
@@ -53,7 +53,7 @@
 Предоставлен DataSet
 
 
-:arrow_up: [к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Оглавление)
 
 ### Краткая информация о данных
 Содержание RowNumber — номер строки таблицы (это лишняя информация, поэтому можете сразу от неё избавиться) CustomerId — идентификатор клиента Surname — фамилия клиента CreditScore — кредитный рейтинг клиента (чем он выше, тем больше клиент брал кредитов и возвращал их) Geography — страна клиента (банк международный) Gender — пол клиента Age — возраст клиента Tenure — сколько лет клиент пользуется услугами банка Balance — баланс на счетах клиента в банке NumOfProducts — количество услуг банка, которые приобрёл клиент HasCrCard — есть ли у клиента кредитная карта (1 — да, 0 — нет) IsActiveMember — есть ли у клиента статус активного клиента банка (1 — да, 0 — нет) EstimatedSalary — предполагаемая заработная плата клиента Exited — статус лояльности (1 — ушедший клиент, 0 — лояльный клиент)
@@ -65,7 +65,7 @@
 составление графиков;
 описание выводов и предложений.
 
-:arrow_up: [к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Оглавление)
 
 ### Результат
 Проведен полный анализ полученных данных;
@@ -73,12 +73,12 @@
 Подготовлена визуализация анализируемых данных;
 Сделаны выводы и предложения.
 
-:arrow_up: [к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Оглавление)
 
 ### Выводы
 Цель достигнута.
 
-:arrow_up: [к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/dushaelena1319/Skillfactory/blob/main/Задание%209.11.%20Модуль%2013%20(HW-01)/README.md#Оглавление)
 
 
 
